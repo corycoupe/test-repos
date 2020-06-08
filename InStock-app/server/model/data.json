@@ -1,0 +1,99 @@
+[
+    {
+      "warehouseId": "1",
+      "warehouseName": "YVR-01",
+      "address": "123 Main Street W. Suite 201",
+      "PostalCode": "V5Y2BX",
+      "location": "Vancouver, CA",
+      "contactName": "Lisa Patterson",
+      "contactRole": "Warehouse Manager",
+      "contactNumber": "+1 604 678 2345",
+      "contactEmail": "weinberg@instock.com",
+      "products": [
+        {
+          "productId": "01-LAP-YVR",
+          "productName": "laptop",
+          "productDescription": "Lorem ipsum dolor sit amet, integer egestas egestas ultricies. Suspendisse ac volutpat metus.",
+          "lastOrdered": "2018-05-17",
+          "warehouseId": "1",
+          "location": "Vancouver, CA",
+          "quantity": 50,
+          "status": "In Stock"
+        },
+        {
+          "productId": "01-MOB-YVR",
+          "productName": "mobile phone",
+          "productDescription": "Lorem ipsum dolor sit amet, integer egestas egestas ultricies. Suspendisse ac volutpat metus.",
+          "lastOrdered": "2017-04-15",
+          "warehouseId": "1",
+          "location": "Vancouver, CA",
+          "quantity": 73,
+          "status": "In Stock"
+        },
+        {
+          "productId": "01-TAB-YVR",
+          "productName": "tablet",
+          "productDescription": "Lorem ipsum dolor sit amet, integer egestas egestas ultricies. Suspendisse ac volutpat metus.",
+          "lastOrdered": "2020-04-12",
+          "warehouseId": "1",
+          "location": "Vancouver, CA",
+          "quantity": 50,
+          "status": "In Stock"
+        },
+        {
+          "productId": "dccea544-a80e-4609-a41e-bea74f9353ea",
+          "productName": "new product",
+          "lastOrdered": "2020-06-07",
+          "warehouseId": "1",
+          "quantity": "50"
+        },
+        {
+          "productId": "927e9f6a-a407-45bf-a406-9d3064344e6a",
+          "productName": "rocket",
+          "lastOrdered": "2020-06-07",
+          "warehouseId": "1",
+          "quantity": "34"
+        }
+      ]
+    },
+    {
+      "warehouseId": "2",
+      "warehouseName": "YYZ-02",
+      "address": "456 Queen Street W . Suite 501",
+      "PostalCode": "M65GB7",
+      "location": "TORONTO, CA",
+      "contactName": "Mara Weinberg",
+      "contactRole": "Warehouse Manager",
+      "contactNumber": "+1 416 678 2345",
+      "contactEmail": "weinberg@instock.com",
+      "products": [
+        {
+          "productId": "01-LAP-YYZ",
+          "productName": "laptop",
+          "productDescription": "Lorem ipsum dolor sit amet, integer egestas egestas ultricies. Suspendisse ac volutpat metus.",
+          "lastOrdered": "2019-05-23",
+          "warehouseId": "2",
+          "location": "TORONTO, CA",
+          "quantity": 12000,
+          "status": "In Stock"
+        },
+        {
+          "productId": "01-MOB-YYZ",
+          "productName": "mobile phone",
+          "productDescription": "Lorem ipsum dolor sit amet, integer egestas egestas ultricies. Suspendisse ac volutpat metus.",
+          "lastOrdered": "2018-03-14",
+          "warehouseId": "2",
+          "location": "TORONTO, CA",
+          "quantity": 350,
+          "status": "In Stock"
+        },
+        {
+          "productId": "ec22cd13-3ece-4c96-bdea-9e2561d1711c",
+          "productName": "new product",
+          "lastOrdered": "2020-06-08",
+          "warehouseId": "2",
+          "quantity": "34"
+        }
+      ]
+    }
+  ]
